@@ -1,6 +1,6 @@
 ---
 permalink: /test-recipe
-layout: page
+layout: default
 theme: jekyll-theme-modernist
 title: Test Recipe
 ---
